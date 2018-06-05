@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //初始化视图
+        //初始化视图     saaaaaa
         initViews();
         //初始化数据
         initDatas();
